@@ -1,0 +1,17 @@
+.splash-screen{
+    display: block;
+    position: fixed;
+    height: 100vh;
+    z-index: 200000000;
+    background: white;
+}
+
+.loading-bar{
+    /* background: red; */
+    width: 0;
+    height: 1rem;
+    position: fixed;
+    top: 0;
+    transition: ease-out 1.7s;
+}
+
