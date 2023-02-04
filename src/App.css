@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+/* Personal Shit */
+.expand{
+  height: 100vh;
+}
+
+
+.center{
+  height: fit-content;
+  min-height: 600px;
+  margin: auto; 
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
