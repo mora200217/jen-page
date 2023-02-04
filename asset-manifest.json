@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://mora200217.github.io/jen-page/static/css/main.86d37095.css",
-    "main.js": "https://mora200217.github.io/jen-page/static/js/main.b4756ffa.js",
+    "main.css": "https://mora200217.github.io/jen-page/static/css/main.36cef40f.css",
+    "main.js": "https://mora200217.github.io/jen-page/static/js/main.9e5a8c2c.js",
     "static/js/787.b5c69241.chunk.js": "https://mora200217.github.io/jen-page/static/js/787.b5c69241.chunk.js",
-    "static/media/logo.svg": "https://mora200217.github.io/jen-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/brad.jpg": "https://mora200217.github.io/jen-page/static/media/brad.23f21fb5616847214b09.jpg",
     "index.html": "https://mora200217.github.io/jen-page/index.html",
-    "main.86d37095.css.map": "https://mora200217.github.io/jen-page/static/css/main.86d37095.css.map",
-    "main.b4756ffa.js.map": "https://mora200217.github.io/jen-page/static/js/main.b4756ffa.js.map",
+    "main.36cef40f.css.map": "https://mora200217.github.io/jen-page/static/css/main.36cef40f.css.map",
+    "main.9e5a8c2c.js.map": "https://mora200217.github.io/jen-page/static/js/main.9e5a8c2c.js.map",
     "787.b5c69241.chunk.js.map": "https://mora200217.github.io/jen-page/static/js/787.b5c69241.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86d37095.css",
-    "static/js/main.b4756ffa.js"
+    "static/css/main.36cef40f.css",
+    "static/js/main.9e5a8c2c.js"
   ]
 }
